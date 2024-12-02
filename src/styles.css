@@ -27,7 +27,7 @@ header {
   background-color: #eeb9d1;
 
   border-radius: 6px;
-  width: 75%;
+  width: 77%;
   font-size: 16px;
   padding: 15px 20px;
   border: 1px solid black;
@@ -62,12 +62,12 @@ footer {
 }
 
 .weather-app-city {
-  margin: 0;
+  margin-left: 13px;
   font-size: 38px;
   line-height: 48px;
   padding-top: 10px;
   font-size: 48px;
-  padding-top: 10px;
+  padding-top: 0;
 }
 
 .weather-app-details {
@@ -89,6 +89,7 @@ footer {
   font-size: 88px;
   margin-left: 10px;
   font-weight: bold;
+  padding-top: 20px;
 }
 
 .weather-app-unit {
