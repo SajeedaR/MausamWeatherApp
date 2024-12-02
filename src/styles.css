@@ -65,7 +65,7 @@ footer {
   margin-left: 13px;
   font-size: 38px;
   line-height: 48px;
-  padding-top: 10px;
+  padding-top: 0px;
   font-size: 48px;
   padding-top: 0;
 }
@@ -75,7 +75,7 @@ footer {
   color: rgba(39, 33, 66, 0.4);
   line-height: 24px;
   font-weight: 500;
-  padding-top: 90px;
+  padding-top: 120px;
   margin: 0px 0px 0px -282px;
   padding-bottom: 20px;
 }
